@@ -1,0 +1,1 @@
+pyinstaller main_page_interface.spec
